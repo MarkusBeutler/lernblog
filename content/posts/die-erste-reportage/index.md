@@ -1,9 +1,14 @@
 +++
 title = "Die erste Reportage"
 date = "2022-07-01"
-draft = false
+draft = true
 pinned = false
+image = "bildschirmfoto-2022-07-01-um-20.27.42.png"
 description = "sfsafas"
 footnotes = "dasfdasdfs"
 +++
-dfasdfsafdas
+![]()
+
+* dfasdfsafdas
+
+![]()
