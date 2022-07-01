@@ -17,7 +17,7 @@ Tipp: Um diesen Blogartikel zu behalten, ohne ihn zu löschen, kann man den **En
 
 So sieht die grösste Überschrift aus (H1).
 
-## Überschrift 2
+### Überschrift 2
 
 Dies ist die Überschrift 2 (H2).
 
